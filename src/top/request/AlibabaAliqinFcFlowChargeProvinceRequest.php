@@ -1,11 +1,11 @@
 <?php
 /**
- * TOP API: alibaba.aliqin.fc.flow.charge request
+ * TOP API: alibaba.aliqin.fc.flow.charge.province request
  * 
  * @author auto create
  * @since 1.0, 2016.03.30
  */
-class AlibabaAliqinFcFlowChargeRequest
+class AlibabaAliqinFcFlowChargeProvinceRequest
 {
 	/** 
 	 * 需要充值的流量
@@ -75,7 +75,7 @@ class AlibabaAliqinFcFlowChargeRequest
 
 	public function getApiMethodName()
 	{
-		return "alibaba.aliqin.fc.flow.charge";
+		return "alibaba.aliqin.fc.flow.charge.province";
 	}
 	
 	public function getApiParas()

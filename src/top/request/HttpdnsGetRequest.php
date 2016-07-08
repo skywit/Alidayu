@@ -1,18 +1,18 @@
 <?php
 /**
- * TOP API: alibaba.aliqin.fc.flow.grade request
+ * TOP API: taobao.httpdns.get request
  * 
  * @author auto create
- * @since 1.0, 2016.03.30
+ * @since 1.0, 2016.03.24
  */
-class AlibabaAliqinFcFlowGradeRequest
+class HttpdnsGetRequest
 {
 	
 	private $apiParas = array();
 	
 	public function getApiMethodName()
 	{
-		return "alibaba.aliqin.fc.flow.grade";
+		return "taobao.httpdns.get";
 	}
 	
 	public function getApiParas()

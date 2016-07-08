@@ -3,7 +3,7 @@
  * TOP API: alibaba.aliqin.fc.tts.num.singlecall request
  * 
  * @author auto create
- * @since 1.0, 2016.03.01
+ * @since 1.0, 2016.05.24
  */
 class AlibabaAliqinFcTtsNumSinglecallRequest
 {
